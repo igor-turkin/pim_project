@@ -21,18 +21,18 @@
 ---
 
 ## • Описание A/B теста:
-<img src="images/slides/s1.jpg" alt="pic1" width="1000">
+<img src="slides/s1.jpg" alt="pic1" width="1000">
 ## • Описание A/B теста:
-<img src="images/slides/s2.jpg" alt="pic1" width="1000">
+<img src="slides/s2.jpg" alt="pic1" width="1000">
 ## • Описание A/B теста:
-<img src="images/slides/s3.jpg" alt="pic1" width="1000">
+<img src="slides/s3.jpg" alt="pic1" width="1000">
 ## • Описание A/B теста:
-<img src="images/slides/s4.jpg" alt="pic1" width="1000">
+<img src="slides/s4.jpg" alt="pic1" width="1000">
 ## • Описание A/B теста:
-<img src="images/slides/s5.jpg" alt="pic1" width="1000">
+<img src="slides/s5.jpg" alt="pic1" width="1000">
 ## • Описание A/B теста:
-<img src="images/slides/s6.jpg" alt="pic1" width="1000">
+<img src="slides/s6.jpg" alt="pic1" width="1000">
 ## • Описание A/B теста:
-<img src="images/slides/s7.jpg" alt="pic1" width="1000">
+<img src="slides/s7.jpg" alt="pic1" width="1000">
 ## • Описание A/B теста:
-<img src="images/slides/s8.jpg" alt="pic1" width="1000">
+<img src="slides/s8.jpg" alt="pic1" width="1000">
