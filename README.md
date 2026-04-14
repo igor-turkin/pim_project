@@ -20,9 +20,9 @@
     Провести анализ причин отказа от заказа (fail_reason)
     Оформить результат анализа любым удобным для вас способом
 
+Jupyter notebook с анализом находится в файле **`pim-task.ipynb`**   
+Дашбоард DataLens находится по ссылке **`[https://datalens.ru/tx99mitwhx92d](https://datalens.ru/tx99mitwhx92d)`**  
 Большой размер датасета не позволяет разместить его в репозитории 
-Jupyter notebook с анализом находится в файле **`pim-task.ipynb`**  
-Дашбоард DataLens находится по ссылке **`[https://datalens.ru/tx99mitwhx92d](https://datalens.ru/tx99mitwhx92d)`**
 
 ## Исследование  
 
