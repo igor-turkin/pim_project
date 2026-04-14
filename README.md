@@ -22,7 +22,7 @@
 
 Jupyter notebook с анализом находится в файле [pim-task.ipynb](https://github.com/igor-turkin/pim_project/blob/main/pim-task.ipynb)  
 Дашбоард DataLens находится по ссылке [datalens](https://datalens.ru/tx99mitwhx92d)  
-Большой размер датасета не позволяет разместить его в репозитории 
+Размер датасета привышает максимально допустимый и не позволяет разместить его в репозитории 
 
 ## Исследование  
 
