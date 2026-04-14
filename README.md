@@ -98,7 +98,7 @@ Jupyter notebook с анализом находится в файле [pim-task.
 
 ## [Дашборд исследования](https://datalens.ru/tx99mitwhx92d)  
 
-<img src="slides/churn2.png" alt="pic1" width="1000">  
+<img src="slides/churn3.png" alt="pic1" width="1000">  
 
 ## Заключение. Рекомендации для бизнеса
   
